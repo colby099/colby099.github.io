@@ -1,0 +1,42 @@
+body {
+  background-color: lightgrey;
+}
+h1, h2, h3 {
+  text-align: center;
+}
+#wrapper {
+  width: 80%;
+  margin: auto;
+  background-color: beige;
+  box-shadow: 10px 10px grey;
+}
+div {
+  width: 90%;
+  margin: auto;
+}
+.itembox {
+  border-style: solid;
+  border-radius: 25px;
+  border-color: black;
+  box-shadow: 5px 5px black;
+  background-color: navajowhite;
+  color: brown;
+  padding: 10px 10px 10px 10px;
+}
+.favorite {
+  border-style: double;
+  border-radius: 25px;
+  border-color: black;
+  box-shadow: 5px 5px black;
+  background-color: rgb(243, 200, 135);
+  color: red;
+  padding: 10px 10px 10px 10px;
+}
+ol {
+  background-color: whitesmoke;
+  list-style-type: upper-roman;
+}
+ul {
+  background-color: grey;
+  list-style-type: circle;
+}
