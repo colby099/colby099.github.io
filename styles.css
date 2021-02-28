@@ -40,3 +40,27 @@ ul {
   background-color: grey;
   list-style-type: circle;
 }
+#n ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: navajowhite;
+}
+#n li {
+  display: inline;
+  float: left;
+}
+#n li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+#n li a:hover {
+background-color: white;
+}
