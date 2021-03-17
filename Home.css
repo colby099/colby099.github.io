@@ -1,0 +1,11 @@
+body {
+  background-image: url(HomeImages/earth.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+ol, h1 {
+  background-color: grey;
+}
+
+ 
