@@ -1,0 +1,68 @@
+body{
+  width:1200px;
+  font-size: 0;
+}
+div{
+  position: relative;
+}
+/*
+Add your CSS to the ID selectors below
+*/
+#statue{
+position: absolute;
+z-index: -1;
+}
+
+#ball{
+position: absolute;
+top: 20px;
+left: 23px;
+z-index: 1;
+}
+
+#turnip{
+position: relative;
+top: 459px;
+left: 297px;
+z-index: 3;
+}
+
+#farm{
+position: relative;
+top: 48px;
+z-index: 2;
+}
+
+#grass{
+position: relative;
+top: 459px;
+left: 348px;
+z-index: 4;
+}
+
+#tetris{
+position: relative;
+top: 48px;
+z-index: 5;
+}
+
+#L{
+position: absolute;
+top: 1748px;
+left: 100px;
+z-index: 6;
+}
+
+#T{
+position: absolute;
+top: 1848px;
+left: 500px;
+z-index: 7;
+}
+
+#I{
+position: absolute;
+top: 1748px;
+left: 1000px;
+z-index: 8;
+}
