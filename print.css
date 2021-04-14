@@ -1,0 +1,10 @@
+
+#footer, #sidebar, #nav {display: none}
+
+.wp-block-image {display: none}
+
+body {font-size: 1.25em;}
+
+body, #center {background-color: white; color: black;}
+
+a::after{content:" ("attr(href)")";}
